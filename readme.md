@@ -15,11 +15,12 @@ about Jupyter notebooks, check out their website [here](https://jupyter.org/).
 
 ### The Datasets
 
-Each notebook in this repository looks at a different dataset.  The two datasets
+Each notebook in this repository looks at a different dataset.  The three datasets
 examined are:
 
 1. [Gas prices in Brazil](https://www.kaggle.com/matheusfreitag/gas-prices-in-brazil)
 2. [Terrorist bombings in Pakistan](https://www.kaggle.com/zusmani/pakistansuicideattacks)
+3. [Chicago Red Light Camera Violations](https://www.kaggle.com/chicago/chicago-red-light-and-speed-camera-data)
 
 
 ### Getting Started
